@@ -1,0 +1,8 @@
+# API requirements
+fastapi[all]==0.115.6
+SQLAlchemy==2.0.37
+asyncpg==0.30.0
+loguru==0.7.3
+
+# MISC requirements
+typer==0.15.1
